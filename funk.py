@@ -42,9 +42,7 @@ def transformMessage(message, seq, deMode):
     count = 0
     transformedMessage = []
     for number in message:
-        if count < len(seq):
-            count = count
-        else: 
+        if count > len(seq):
             count = 0 
 
         if deMode == True:
