@@ -44,7 +44,6 @@ def transformMessage(message, seq, deMode):
     for number in message:
         if count > len(seq):
             count = 0 
-
         if deMode == True:
             newNum = number - int(seq[count])
         else: 
