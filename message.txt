@@ -1,0 +1,15 @@
+TerraformApply > 20210918.29
+Your approval is required for stage 'deploy' to use environment 'Terraform'
+Requested for Alex Gregory
+Review approval
+Summary
+Run reason	IndividualCI
+Run queued on	Sat, 18 Sep 2021 20:13:19 GMT
+Stage requested for	Alex Gregory
+Attempt	1
+Approvers
+At least 1 approver(s) must review
+
+Alex Gregory		Waiting	 
+russellloomes		Waiting	 
+We sent you this notification due to a default subscript
